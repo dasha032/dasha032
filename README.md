@@ -3,7 +3,7 @@
   <a href="https://t.me/vikhodnoy">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="100"/>
   </a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=190&lines=SFEDU+IT+student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=210&lines=SFEDU+IT+graduate" alt="Typing SVG" /></a>
 </div>
 
 
