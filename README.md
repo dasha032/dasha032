@@ -11,8 +11,10 @@
 
 ## Hi there, I'm Daria Kolbasina 👋
 # About me:  I'm Data Engineer from Rostov-on-Don! 
-- 🌱 I’m currently learning Python, SQL for Data Engineering
-  
+- 🌱 I’m currently learning *Python*, *SQL* for Data Engineering
+- 👩🏻‍🎓 *SFEDU* and *Yandex Practicum* graduate
+- 💫 Сhose data engineering for its balance between analytics and development
+   
 
 ## Languages and tools
 <div>
@@ -27,6 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/log-z/logos/blob/main/website-logos/kafka.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
 
 </div>
 
