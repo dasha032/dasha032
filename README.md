@@ -14,8 +14,8 @@
 - 🌱 I’m currently learning *Python*, *SQL* for Data Engineering
 - 👩🏻‍🎓 *SFEDU* and *Yandex Practicum* graduate
 - 💫 Сhose data engineering for its balance between analytics and development
-   
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasha032&langs_count=6)
 ## Languages and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
