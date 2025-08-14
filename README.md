@@ -12,7 +12,7 @@
 ## Hi there, I'm Daria Kolbasina 👋
 # About me:  I'm Data Engineer from Rostov-on-Don! 
 - 🌱 I’m currently learning *Python*, *SQL* for Data Engineering
-- 👩🏻‍🎓 *SFEDU* and *Yandex Practicum* graduate
+- 👩🏻‍🎓 *Faculty of Fundamental Informatics and Information Technologies, SFEDU* and *Yandex Practicum* graduate
 - 💫 Сhose data engineering for its balance between analytics and development
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasha032&langs_count=6)
